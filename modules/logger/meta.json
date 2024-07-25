@@ -1,0 +1,9 @@
+{
+    "name": "Logger Module",
+    "id": "hera_logger",
+    "ver": "0.0.1",
+    "desc": "Used for logger and #log channel",
+    "required": [],
+    "author":"Herasium",
+    "file":"__init__.py"
+}

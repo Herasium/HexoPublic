@@ -1,0 +1,9 @@
+{
+    "name": "Moderation Module",
+    "id": "hera_moderation",
+    "ver": "0.0.1",
+    "desc": "Used for global moderation",
+    "required": [],
+    "author":"Herasium",
+    "file":"__init__.py"
+}

@@ -1,0 +1,9 @@
+{
+    "name": "Welcome Module",
+    "id": "hera_welcome",
+    "ver": "0.0.1",
+    "desc": "Send Welcome/Goddbye Messages",
+    "required": [],
+    "author":"Herasium",
+    "file":"__init__.py"
+}

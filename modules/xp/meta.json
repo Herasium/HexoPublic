@@ -1,0 +1,9 @@
+{
+    "name": "XP Module",
+    "id": "hera_xp",
+    "ver": "0.0.1",
+    "desc": "User Data XP Handler",
+    "required": [],
+    "author":"Herasium",
+    "file":"__init__.py"
+}

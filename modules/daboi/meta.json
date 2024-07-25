@@ -1,0 +1,9 @@
+{
+    "name": "DaBoi Module",
+    "id": "hera_daboi",
+    "ver": "0.0.1",
+    "desc": "Used for the daboi gacha minigame.",
+    "required": [],
+    "author":"Herasium",
+    "file":"__init__.py"
+}

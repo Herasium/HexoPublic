@@ -1,0 +1,9 @@
+{
+    "name": "Japanese Module",
+    "id": "hera_jap",
+    "ver": "0.0.1",
+    "desc": "Help hera learn his Japanese before school starts again!",
+    "required": [],
+    "author":"Herasium",
+    "file":"__init__.py"
+}

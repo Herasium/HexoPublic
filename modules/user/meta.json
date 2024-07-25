@@ -1,0 +1,9 @@
+{
+    "name": "UserData Module",
+    "id": "hera_user",
+    "ver": "0.0.1",
+    "desc": "User Data DB Handler",
+    "required": [],
+    "author":"Herasium",
+    "file":"__init__.py"
+}

@@ -1,0 +1,9 @@
+{
+    "name": "Population Module",
+    "id": "hera_pop",
+    "ver": "0.0.1",
+    "desc": "Used to set the member count.",
+    "required": [],
+    "author":"Herasium",
+    "file":"__init__.py"
+}

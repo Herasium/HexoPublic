@@ -1,0 +1,9 @@
+{
+    "name": "Counting Module",
+    "id": "hera_counting",
+    "ver": "0.0.1",
+    "desc": "Used for the counting minigame.",
+    "required": [],
+    "author":"Herasium",
+    "file":"__init__.py"
+}

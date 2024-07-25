@@ -1,0 +1,10 @@
+git+https://github.com/Rapptz/discord.py
+firebase_admin
+mpmath
+sympy
+StringProgressBar
+tqdm
+requests
+pyfiglet
+numpy
+opencv-python-headless

@@ -1,0 +1,9 @@
+{
+    "name": "Role React Module",
+    "id": "hera_rreact",
+    "ver": "0.0.1",
+    "desc": "Used for role react purposes",
+    "required": [],
+    "author":"Herasium",
+    "file":"__init__.py"
+}

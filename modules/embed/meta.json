@@ -1,0 +1,9 @@
+{
+    "name": "Embed Module",
+    "id": "hera_embed",
+    "ver": "0.0.1",
+    "desc": "Simple Embed Command",
+    "required": [],
+    "author":"Herasium",
+    "file":"__init__.py"
+}

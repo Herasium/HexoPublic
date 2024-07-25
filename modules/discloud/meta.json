@@ -1,0 +1,9 @@
+{
+    "name": "Discloud Module",
+    "id": "hera_discloud",
+    "ver": "0.0.1",
+    "desc": "Deal with the host for the /restart command",
+    "required": [],
+    "author":"Herasium",
+    "file":"__init__.py"
+}

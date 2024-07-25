@@ -1,0 +1,9 @@
+{
+    "name": "Firebase Module",
+    "id": "hera_firebase",
+    "ver": "0.0.1",
+    "desc": "Deal with the firebase database",
+    "required": [],
+    "author":"Herasium",
+    "file":"__init__.py"
+}
